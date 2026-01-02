@@ -1,0 +1,29 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+body{
+    background: lightblue;
+    background: linear-gradient(to bottom, rgb(4, 134, 0), rgb(1, 91, 1));
+}
+
+.container{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid black 2px;
+}
+
+.links{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: space-between;
+    display: flex;
+}
+
+hr{
+    height: 2px;
+    background-color: black;
+}
