@@ -4,13 +4,13 @@
 }
 
 html, body{
-    background: rgb(46, 60, 65);
+    background: rgb(72, 105, 117);
     margin: 0px;
 }
 
 .container{
     align-content: center;
-    background: rgb(64, 74, 78);
+    background: rgb(40, 82, 99);
     border: 2px solid rgb(21, 48, 67);
     border-radius: 10px;
     margin: 10px;
@@ -21,6 +21,7 @@ html, body{
 
 .showcase{
     width: 30%;
+    background: rgb(40, 101, 125);
     padding: 20px;
     margin: 10px;
     text-align: center;
@@ -30,7 +31,7 @@ html, body{
 
 h1{
     text-align: center;
-    background-color: rgb(64, 74, 78);
+    background-color: rgb(40, 82, 99);
     padding: 20px;
     border-radius: 10px;
     width: 500px;
@@ -46,7 +47,7 @@ img{
 }
 
 .links{
-    background-color: rgb(64, 74, 78);;
+    background-color: rgb(40, 82, 99);;
     padding: 10px;
     border-radius: 10px;
     justify-content: space-between;
