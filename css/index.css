@@ -4,18 +4,22 @@
 }
 
 body, html{
-    background-color: rgb(170, 217, 246);
-    background: linear-gradient( to bottom, lightblue, rgb(172, 172, 255));
-    height: 100%;
-    min-height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../assets/scutum_logo.png), url(../assets/shield_pickup.png);
+    background-color: rgb(58, 70, 70);
+
 }
 
 .container
 {
-    background-color: white;
+    background-color: rgb(40, 101, 125);
     padding: 10px;
     border-radius: 10px;
-    border: solid black 1px;
+    border: solid black 5px;
+    margin: 0 auto;
+    max-width: 900px;
+    margin-bottom: 40px;
 }
 
 
@@ -34,7 +38,7 @@ img{
 
 h1{
     text-align: center;
-    background-color: white;
+    background-color:rgb(40, 101, 125);
     padding: 10px;
     border-radius: 10px;
     width: fit-content;
@@ -57,4 +61,15 @@ div{
 .title{
     justify-content: center;
     display: flex;
+}
+
+.container_links
+{
+    background-color: rgb(40, 101, 125);
+    padding: 10px;
+    border-radius: 10px;
+    border: solid black 5px;
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 600px;
 }

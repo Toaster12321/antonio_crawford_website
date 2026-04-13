@@ -21,6 +21,9 @@ body{
     border-radius: 10px;
     justify-content: space-between;
     display: flex;
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 600px;
 }
 
 hr{

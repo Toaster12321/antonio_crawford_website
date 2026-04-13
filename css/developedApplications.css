@@ -55,9 +55,13 @@ img{
     border: solid black 1px;
     margin-left: 5px;
     margin-right: 5px;
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 600px;
 }
 
 .title{
     justify-content: center;
     display: flex;
+    
 }
