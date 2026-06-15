@@ -4,19 +4,18 @@
 }
 
 body{
-    background: lightblue;
-    background: linear-gradient(to bottom, rgb(4, 134, 0), rgb(1, 91, 1));
+    background: rgb(72, 105, 117);
 }
 
 .container{
-    background-color: white;
+    background-color: lightblue;
     padding: 10px;
     border-radius: 10px;
     border: solid black 2px;
 }
 
 .links{
-    background-color: white;
+    background-color: lightblue;
     padding: 10px;
     border-radius: 10px;
     justify-content: space-between;
